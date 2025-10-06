@@ -5,4 +5,4 @@ This tool is intended for educational and ethical hacking purposes only. Always 
 Executes /bin/bash -c "<command>" using the execve syscall (rax=59) to spawn a reverse TCP shell.
 
 # Usage
-./assembler.sh <name>.s
+./assembler.sh rev.s
